@@ -81,11 +81,6 @@ PM_START_TEXT = """
 
 
 
-
-HELP_STRINGS = """
-`ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-
-
 START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
 
